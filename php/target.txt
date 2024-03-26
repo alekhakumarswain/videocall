@@ -1,0 +1,18 @@
+video_calling_website/
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+│   └── images/
+│
+├── includes/
+│   ├── db.php
+│   └── functions.php
+│
+├── index.php
+├── login.php
+├── register.php
+├── dashboard.php
+└── logout.php
